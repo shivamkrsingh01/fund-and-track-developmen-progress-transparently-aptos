@@ -1,0 +1,15 @@
+[package]
+name = "fund-and-track-developmen-progress-transparently"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = '0xdbc45e85c4df468c6dbf75a1bd1d0e82dfc113232ca132a172245fcd1b16d1e1'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
