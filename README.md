@@ -1,6 +1,7 @@
 This is a sample Move-based project for the Aptos blockchain, initialized using the Aptos CLI. It contains a simple Move smart contract and can be built, tested, and deployed to the Aptos blockchain.
 
 📂 Project Structure
+
 hello aptos/
 │
 ├── sources/  
