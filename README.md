@@ -28,5 +28,9 @@ NFT-based rewards for backers to incentivize participation.
 Governance features enabling backers to vote on project changes.
 
 📄 Contract Details
-Module Name:- MyModule
-Address:- "0xdbc45e85c4df468c6dbf75a1bd1d0e82dfc113232ca132a172245fcd1b16d1e1"
+contract address:- 
+0x25f9f75a55167df708a8c80acb7b4ce60d2e53d43f69682fab1a4e863b346893
+
+<img width="1917" height="1143" alt="Screenshot 2025-08-14 132815" src="https://github.com/user-attachments/assets/9beb2133-fd82-4918-9ed5-ee0e53105978" />
+
+
