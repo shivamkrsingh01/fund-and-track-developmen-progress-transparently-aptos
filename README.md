@@ -3,6 +3,7 @@ This is a sample Move-based project for the Aptos blockchain, initialized using 
 📂 Project Structure
 
 hello aptos/
+
 │
 ├── sources/  
 │   └── project.move        
