@@ -4,11 +4,11 @@ This is a sample Move-based project for the Aptos blockchain, initialized using 
 hello aptos/
 │
 ├── sources/  
-│   └── project.move        # Main Move smart contract
+│   └── project.move        
 │
-├── build/                  # Auto-generated build files (compiled Move bytecode, source maps)
+├── build/                 
 │
-└── Move.toml               # Project manifest with dependencies & configuration
+└── Move.toml              
 
 📜 Description
 The ProductLaunch smart contract is a decentralized crowdfunding platform built on the Aptos blockchain using the Move language.
